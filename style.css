@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(skyblue 0%, rgb(0, 102, 255) 100%);
+}
+p{
+    font-size: 25px;
+    font-family: "caveat";
+    color: white;
+}
+h1{
+    font-family: "caveat";
+    font-size: 100px;
+    color: blueviolet;
+}
+.troll{
+    font-size: 55px;
+    color:brown;
+}
+.t{
+    width: 150px;
+    height: 125px;
+    background: linear-gradient(orange 0%, red 100%);
+}
